@@ -7,7 +7,8 @@
 [![Supabase](https://img.shields.io/badge/Supabase-2.49.1-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com/)
 [![Styled Components](https://img.shields.io/badge/Styled_Components-6.1.15-DB7093?logo=styled-components&logoColor=white)](https://styled-components.com/)
 [![Google Generative AI](https://img.shields.io/badge/Gemini_AI-0.22.0-4285F4?logo=google&logoColor=white)](https://ai.google.dev/)
-
+## Demo Video
+https://www.youtube.com/watch?v=LL3k_qY3wS4
 An immersive, interactive campus exploration game that helps University of Delaware students, especially freshmen, discover and learn about campus locations through engaging 360° panoramas.
 
 ## 🎓 For Incoming Freshmen
