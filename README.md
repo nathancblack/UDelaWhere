@@ -9,6 +9,7 @@
 [![Google Generative AI](https://img.shields.io/badge/Gemini_AI-0.22.0-4285F4?logo=google&logoColor=white)](https://ai.google.dev/)
 ## Demo Video
 https://www.youtube.com/watch?v=LL3k_qY3wS4
+
 An immersive, interactive campus exploration game that helps University of Delaware students, especially freshmen, discover and learn about campus locations through engaging 360° panoramas.
 
 ## 🎓 For Incoming Freshmen
