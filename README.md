@@ -74,7 +74,7 @@ The leaderboard functionality uses Supabase as a backend:
 ## 👨‍💻 Contributors
 
 - **Nathaniel Black** — Developer
-  - [GitHub](https://github.com/ncb09)
+  - [GitHub](https://github.com/nathancblack)
   - [LinkedIn](https://www.linkedin.com/in/nathaniel-black-ab8a19329/)
 
 - **Marcos Diaz Vazquez** — Developer
